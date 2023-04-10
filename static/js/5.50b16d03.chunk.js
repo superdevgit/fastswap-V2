@@ -1,0 +1,1 @@
+(this["webpackJsonp@fastswap/interface"]=this["webpackJsonp@fastswap/interface"]||[]).push([[5],{1310:function(s,a){}}]);
